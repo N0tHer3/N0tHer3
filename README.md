@@ -49,6 +49,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+<!-- ══════════ 底部渐变条 ══════════ -->
+<div style="height: 6px; background: linear-gradient(90deg, #58A6FF, #BC4CFF, #FA7C58); border-radius: 3px; margin-top: 24px;"></div>
+
+<p align="center">⭐️ From <a href="https://github.com/TY-Sec">TY-Sec</a></p>
 
 </div>
