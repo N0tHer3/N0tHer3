@@ -20,7 +20,7 @@
 
 🎯 **方向**：渗透测试 · 漏洞挖掘 · SRC 实战
 
-🤖 **当前**：正在打造 AI 驱动的自动化安全扫描平台
+🤖 **当前**：正在探索 AI 在安全领域的应用
 
 💪 **信念**：路虽远，行则将至；事虽难，做则必成。
 
@@ -51,7 +51,5 @@
 
 <!-- ══════════ 底部渐变条 ══════════ -->
 <div style="height: 6px; background: linear-gradient(90deg, #58A6FF, #BC4CFF, #FA7C58); border-radius: 3px; margin-top: 24px;"></div>
-
-<p align="center">⭐️ From <a href="https://github.com/TY-Sec">TY-Sec</a></p>
 
 </div>
