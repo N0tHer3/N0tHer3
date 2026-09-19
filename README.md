@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm 汤圆 🍡
-
-**渗透测试 · 漏洞挖掘 · SRC 实战 · AI + 安全**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=110&lines=print(%22Hello%2C%20World!%22);%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%20%E6%B1%A4%E5%9C%86_N0tHer3%20%E7%9A%84%20GitHub%20%E4%B8%BB%E9%A1%B5;%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%2F%20%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%20%2F%20AI%20%2B%20%E5%AE%89%E5%85%A8;Keep%20your%20passion!" alt="Typing SVG"/>
 
 路虽远，行则将至；事虽难，做则必成。
 
@@ -14,16 +12,6 @@
 
 <br/>
 
-### 🛠 技术栈
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-<br/>
-
-![访客计数](https://komarev.com/ghpvc/?username=N0tHer3&color=58A6FF&style=flat-square&label=%E8%AE%BF%E5%AE%A2)
+<img src="https://komarev.com/ghpvc/?username=N0tHer3&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitors"/>
 
 </div>
